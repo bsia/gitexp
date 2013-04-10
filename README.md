@@ -1,4 +1,4 @@
 gitexp
 ======
 
-git experiments
+This repository is for git experiments.
