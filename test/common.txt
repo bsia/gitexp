@@ -2,3 +2,7 @@ This is the common file.
 This is another change after other was created.
 Changes made here.
 And here.
+
+This is the rebase test.
+
+
